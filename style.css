@@ -110,7 +110,7 @@ main {
     height: 100%;
     border-radius: 20px;  
     /* border: 2px solid red;   */
-    /* box-shadow: 4px 7px 32px #00000070; */
+    box-shadow: 4px 7px 32px #00000070;
 }
 .coding-img {
     width: 100%;
